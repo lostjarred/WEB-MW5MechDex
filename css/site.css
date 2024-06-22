@@ -1,6 +1,9 @@
 a {
     text-decoration: none;
 }
+ul {
+    list-style: none;
+}
 a.link:hover::before, a.link:active::before{
     content: ">  ";
 }
