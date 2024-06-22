@@ -18,7 +18,7 @@ a.button {
 a.button:hover, a.button:active{
     background-color: #282828;
     color: #ff2100;
-    border: 2px solid #282828;
+    border: 2px solid #ff2100;
 }
 div.code {
     background-color: #ff2100;
