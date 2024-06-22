@@ -71,6 +71,7 @@ img.img-box {
     object-fit: cover; 
     height: 100%; 
     width: 100%;
+    margin: 5px;
 }
 ul.menu {
     list-style: none;
