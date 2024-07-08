@@ -18,6 +18,8 @@
     menutext += '<li> <a href="./hm_jagermech_pompom.html" class="button">\JAGERMECH-JM6-S-POM POM</a> </li>';
     menutext += '</ul>';
     menutext += '<h3>ASSUALT MECHS</h3>';
-    
+    menutext += '<ul class="menu">';
+    menutext += '<li> <a href="./am_kingcrab_mg.html" class="button">\KINGCRAB-KGC-000-UNKOWN MG</a> </li>';
+    menutext += '</ul>';
     menudiv.innerHTML = menutext;
 }
