@@ -16,7 +16,7 @@
     menutext += '<ul class="menu">';
     menutext += '<li> <a href="./hm_archer_whyowepaistthbl.html" class="button">\ARCHER-ARC-2P-WHILE YOUR WERE PARTYING I STUDIED THE BLADE</a> </li>';
     menutext += '<li> <a href="./hm_jagermech_pompom.html" class="button">\JAGERMECH-JM6-S-POM POM</a> </li>';
-    menutext += '<li> <a href="./hm_marauder_splat.html" class="button">\MARAUDER-MAD-3M-SPLAT</a> </li>';
+    menutext += '<li> <a href="./hm_marauder_splatv1.html" class="button">\MARAUDER-MAD-3M-SPLAT V1</a> </li>';
     menutext += '</ul>';
     menutext += '<h3>ASSUALT MECHS</h3>';
     menutext += '<ul class="menu">';
