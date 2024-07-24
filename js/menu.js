@@ -25,6 +25,7 @@
     menutext += '<li> <a href="./am_stalker_eye.html" class="button">\STALKER-STK-4N-EYE</a> </li>';
     menutext += '<li> <a href="./am_stalker_sauron.html" class="button">\STALKER-STK-4N-SAURON</a> </li>';
     menutext += '<li> <a href="./am_atlas_noescape.html" class="button">\ATLAS-AS7-P-NOESCAPE</a> </li>';
+    menutext += '<li> <a href="./am_atlas_noescapev2.html" class="button">\ATLAS-AS7-P-NOESCAPE V2</a> </li>';
     menutext += '</ul>';
     menudiv.innerHTML = menutext;
 }
