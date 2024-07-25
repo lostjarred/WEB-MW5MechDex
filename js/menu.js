@@ -24,9 +24,12 @@
     menutext += '<li> <a href="./am_kingcrab_mg.html" class="button">\KINGCRAB-KGC-000-UNKOWN MG</a> </li>';
     menutext += '<li> <a href="./am_stalker_eye.html" class="button">\STALKER-STK-4N-EYE</a> </li>';
     menutext += '<li> <a href="./am_stalker_sauron.html" class="button">\STALKER-STK-4N-SAURON</a> </li>';
-    menutext += '<li> <a href="./am_atlas_noescape.html" class="button">\ATLAS-AS7-P-NOESCAPE</a> </li>';
+    menutext += '<li> <p>ATLAS-AS7-P-NOESCAPE</p> </li>';
+    menutext += '<ul class="menu" style="margin-left: 2%;">';
+    menutext += '<li> <a href="./am_atlas_noescape.html" class="button">\ATLAS-AS7-P-NOESCAPE V1</a> </li>';
     menutext += '<li> <a href="./am_atlas_noescapev2.html" class="button">\ATLAS-AS7-P-NOESCAPE V2</a> </li>';
     menutext += '<li> <a href="./am_atlas_noescapev3.html" class="button">\ATLAS-AS7-P-NOESCAPE V3</a> </li>';
+    menutext += '</ul>';
     menutext += '</ul>';
     menudiv.innerHTML = menutext;
 }
