@@ -8,8 +8,8 @@
     menutext += '</ul>';
     menutext += '<h3>LIGHT MECHS</h3>';
     menutext += '<ul class="menu">';
-    menutext += '<li> <a href="./lm_raven_runngun.html" class="button">\RVN-1X-RunNGun</a> </li>';
-    menutext += '<li> <a href="./lm_urban_scootandshoot.html" class="button">\UM-SA1-ScootandShoot</a> </li>';
+    menutext += '<li> <a href="./lm_raven_runngun.html" class="button">\RVN-1X-RUNNGUN</a> </li>';
+    menutext += '<li> <a href="./lm_urban_scootandshoot.html" class="button">\UM-SA1-SCOOTANDSHOOT</a> </li>';
     menutext += '</ul>';
     menutext += '<h3>MEDIUM MECHS</h3>';
     menutext += '<ul class="menu">';
