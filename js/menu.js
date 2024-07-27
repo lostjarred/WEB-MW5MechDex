@@ -12,6 +12,9 @@
     menutext += '<li> <a href="./lm_urban_scootandshoot.html" class="button">\UM-SA1-ScootandShoot</a> </li>';
     menutext += '</ul>';
     menutext += '<h3>MEDIUM MECHS</h3>';
+    menutext += '<ul class="menu">';
+    menutext += '<li> <a href="./mm_hunchback_lancer.html" class="button">\HBK-VEST-LANCER</a> </li>';
+    menutext += '</ul>';
     menutext += '<h3>HEAVY MECHS</h3>';
     menutext += '<ul class="menu">';
     menutext += '<li> <a href="./hm_archer_whyowepaistthbl.html" class="button">\ARCHER-ARC-2P-WHILE YOUR WERE PARTYING I STUDIED THE BLADE</a> </li>';
