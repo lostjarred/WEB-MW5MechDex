@@ -14,6 +14,7 @@
     menutext += '<h3>MEDIUM MECHS</h3>';
     menutext += '<ul class="menu">';
     menutext += '<li> <a href="./mm_hunchback_lancer.html" class="button">\HBK-VEST-LANCER</a> </li>';
+    menutext += '<li> <a href="./mm_hunchback_lancer_v2.html" class="button">\HBK-VEST-LANCER-V2</a> </li>';
     menutext += '</ul>';
     menutext += '<h3>HEAVY MECHS</h3>';
     menutext += '<ul class="menu">';
